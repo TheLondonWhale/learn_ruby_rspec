@@ -1,6 +1,8 @@
 Test First Ruby -- RSpec 3 Edition
 ==========
 
+[![GuardRails badge](https://badges.production.guardrails.io/TheLondonWhale/learn_ruby_rspec.svg)](https://www.guardrails.io)
+
 ### Set up instructions
 
 1. Fork this repo
